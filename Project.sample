@@ -1,0 +1,36 @@
+<html>
+     <head>
+	     <title>Sample project page</title>
+	 </head>
+	 
+	 <body>
+	     <nav>
+		    <ul>
+			<li>
+			<a href = "Bio.html">
+			Home Page
+			</a>
+			<li>
+			</ul>
+		 </nav>
+		  <ul>
+			<li>
+			<a href = "project.html">
+			Project Page
+			</a>
+			<li>
+			</ul>
+		 </nav>
+	    <h1>Sample plot<h1>
+	    <p> This is a random plot of stuff and stuff</p>
+		<figure>
+		    <img src="download.jpg"
+			alt = "download.jpg"
+			title = "download.jpg"/>
+			<figcaption>
+			This is a scatterplot for our results
+			<figcaption>
+		</figure>
+	 </body>
+	 
+</html>
